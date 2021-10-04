@@ -1,0 +1,19 @@
+.banner{
+    background: url("background.jpg")
+    no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: #fff;
+}
+.small-line{
+    border:0.5px solid #7910f1;
+    display: block;
+    margin: auto;
+    margin-bottom: 25px;
+    width: 125px;
+  }
+  
+  
+  
+   
